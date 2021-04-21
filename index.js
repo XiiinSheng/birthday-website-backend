@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
 const PORT = process.env.PORT || 9000;
-const url = 'mongodb+srv://public:public@cluster0.psure.mongodb.net/birthdayWebsite?retryWrites=true&w=majority';
+const url = "USE YOUR OWN DATABASE URL HERE. OTHERWISE THE CODE WON'T WORK";       // Change this URL to your database! 
 const frontEndURL = 'https://birthday-website-xin-sheng.herokuapp.com'; // for deploy
 // const frontEndURL = "*";    // for dev
 const postRouter = require('./routes/posts');
