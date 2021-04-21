@@ -1,4 +1,4 @@
-# Backend Of Birthday Website
+# Backend of Birthday Website
 
 ## Description
 Backend server of Xin Sheng's birthday website.   
@@ -8,8 +8,8 @@ Hosted on Heroku.
 ## Notes
 Change the URL in index.js to a usable mongodb database url before actually running the code.
 
-## Link To The Complete Project
+## Link to The Complete Project
 https://github.com/XiiinSheng/birthday-website
 
-## Link To The Frontend
+## Link to The Frontend
 https://github.com/XiiinSheng/birthday-website-frontend
